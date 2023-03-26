@@ -1,0 +1,7 @@
+body { background-image: url(./images/bg_epicode.png); }
+
+div.container { display: flex; justify-content: center; }
+
+div.js-box h2 { text-align: center; color: white; font-family: sans-serif; }
+
+div.js-box img { width: 250px; height: 250px; }
